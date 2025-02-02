@@ -1,0 +1,5 @@
+owner = "lk"
+environment = "dev"
+function_sa_name="functionsa"
+function_sp_name="functionsp"
+function_app_name="functionapp"
